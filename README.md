@@ -1,3 +1,7 @@
+<a target="_top" href="http://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2018/01/13/flamingtext_com_1515808144_581246099.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<br/>Logo Design by <a href="http://www.flamingtext.com/" >FlamingText.com</a>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/savinco/coinprodata/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
